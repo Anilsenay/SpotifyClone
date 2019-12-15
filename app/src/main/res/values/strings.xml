@@ -2,7 +2,7 @@
     <string name="app_name">SpotifyClone</string>
 
     <string-array name="tabs">
-        <item>Radio</item>
+        <item>Radios</item>
         <item>Favorites</item>
     </string-array>
 </resources>
